@@ -13,9 +13,3 @@ Windows desktop app for encrypting files and folders with AES-256-GCM (Argon2id-
 Prefer no installation? Get the portable `FileEncryptionApp-windows.zip` from the [latest release](https://github.com/KapilPalanivel/FileEncryptionApp-releases/releases/latest), extract it and run `FileEncryptionApp.exe`.
 
 The app updates itself: it checks once a day (or Settings → Updates → Check now) and downloads only what changed.
-
-## Integrity
-
-Every release includes `update.properties` (SHA-256 of each file) and `update.properties.sig`, an Ed25519 signature made with an offline key. The app refuses updates whose signature doesn't verify.
-
-This repository only hosts release downloads.
