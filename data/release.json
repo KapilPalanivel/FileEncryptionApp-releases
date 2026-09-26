@@ -1,6 +1,6 @@
 {
   "version": "2.3.0",
   "date": "2026-09-26",
-  "size": "41 MB",
-  "notes": "## ✨ New\n\n- **Meet Clavis.** File Encryption App has a new name, a new icon and a new home."
+  "size": "42 MB",
+  "notes": "# Clavis 2.3.0\n\n## ✨ New\n\n- **Meet Clavis.** File Encryption App has a new name — *clavis* is Latin for “key” — a new icon, and a new look with a cobalt blue accent.\n- **A home on the web.** Download Clavis and read what's new at kapilpalanivel.github.io/clavis.\n\n## Install / upgrade\n\n- **Already installed:** the app updates itself (Settings → Updates → Check now). To also get the new icon on your desktop and Start menu, install **Clavis-Setup.exe** from the website once — your vaults and settings are kept.\n- **New install:** download **Clavis-Setup.exe** from the website and run it.\n"
 }
